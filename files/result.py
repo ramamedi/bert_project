@@ -142,4 +142,3 @@ def line_precision_recall():
     plt.legend()
     plt.savefig('recall_pressicion_line.png') 
 
-line_precision_recall() 
